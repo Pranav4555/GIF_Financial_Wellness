@@ -1,0 +1,25 @@
+credentials:
+  usernames:
+    pranav:
+      email: pranav@gigwellness.ai
+      name: Pranav
+      password: $2b$12$fz3gAtRG7eQ8uV3BEa932uY8SC1s9MDWNJRSx.SHwYCA5/iC9XsLe  # "pranav4554" hashed
+    admin:
+      email: admin@gigwellness.ai
+      name: Admin User
+      password: $2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewdBPj6.fMg.6/6  # "admin123" hashed
+    demo:
+      email: demo@gigwellness.ai
+      name: Demo User
+      password: $2b$12$8K3aAzl5XHix4a3JlPeLjO8hJ3iS9Vh7y8hW1YO4NmOATdYwEHi1  # "demo123" hashed
+
+cookie:
+  expiry_days: 30
+  key: gig_wellness_secret_key_2024
+  name: gig_wellness_auth
+
+preauthorized:
+  emails:
+  - pranav@gigwellness.ai
+  - admin@gigwellness.ai
+  - demo@gigwellness.ai

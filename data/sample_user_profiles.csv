@@ -1,0 +1,101 @@
+user_id,age,location,primary_platform,months_active,education,dependents
+USER001,42,Boston,lyft,4,masters,1
+USER002,28,Los Angeles,taskrabbit,28,some_college,2
+USER003,24,Seattle,upwork,47,bachelors,0
+USER004,48,Miami,upwork,39,some_college,1
+USER005,30,New York,upwork,34,some_college,3
+USER006,22,Los Angeles,uber,33,masters,1
+USER007,37,Boston,taskrabbit,37,bachelors,0
+USER008,53,Los Angeles,instacart,22,bachelors,2
+USER009,23,Boston,fiverr,32,bachelors,1
+USER010,61,New York,fiverr,45,bachelors,2
+USER011,33,Austin,instacart,43,bachelors,2
+USER012,29,Boston,doordash,18,phd,1
+USER013,53,San Francisco,fiverr,38,some_college,3
+USER014,55,Seattle,doordash,44,masters,2
+USER015,43,San Francisco,upwork,27,phd,1
+USER016,57,New York,fiverr,24,phd,3
+USER017,53,San Francisco,uber,45,some_college,0
+USER018,54,Chicago,upwork,15,masters,4
+USER019,21,Austin,fiverr,35,high_school,2
+USER020,53,Los Angeles,doordash,37,some_college,1
+USER021,55,Seattle,upwork,28,phd,1
+USER022,47,Los Angeles,instacart,45,bachelors,4
+USER023,43,New York,fiverr,17,phd,4
+USER024,46,Los Angeles,fiverr,33,masters,4
+USER025,65,Austin,fiverr,5,phd,3
+USER026,31,Los Angeles,upwork,19,some_college,3
+USER027,27,New York,taskrabbit,9,high_school,2
+USER028,32,Boston,uber,4,high_school,0
+USER029,31,Seattle,fiverr,47,masters,1
+USER030,51,Boston,fiverr,33,masters,0
+USER031,40,Los Angeles,instacart,10,some_college,4
+USER032,43,Seattle,upwork,46,masters,1
+USER033,51,Seattle,lyft,16,high_school,1
+USER034,46,Miami,lyft,13,masters,1
+USER035,18,Chicago,instacart,18,bachelors,0
+USER036,47,Chicago,upwork,16,bachelors,4
+USER037,32,Seattle,lyft,48,bachelors,0
+USER038,45,Austin,doordash,23,high_school,2
+USER039,53,New York,upwork,37,some_college,2
+USER040,41,Austin,doordash,35,masters,1
+USER041,65,Chicago,doordash,42,some_college,4
+USER042,21,Seattle,fiverr,15,bachelors,3
+USER043,24,Los Angeles,uber,5,phd,3
+USER044,36,Miami,doordash,17,bachelors,0
+USER045,46,San Francisco,lyft,32,masters,1
+USER046,26,Seattle,uber,17,bachelors,2
+USER047,52,Boston,taskrabbit,19,masters,2
+USER048,45,Miami,fiverr,34,phd,1
+USER049,59,Miami,upwork,14,bachelors,0
+USER050,48,New York,upwork,7,some_college,3
+USER051,53,Los Angeles,taskrabbit,13,masters,3
+USER052,29,New York,fiverr,44,phd,1
+USER053,31,Miami,lyft,17,bachelors,4
+USER054,55,Boston,taskrabbit,31,masters,2
+USER055,31,Los Angeles,lyft,28,some_college,4
+USER056,36,Austin,instacart,10,high_school,3
+USER057,45,New York,fiverr,3,phd,1
+USER058,43,New York,uber,45,bachelors,1
+USER059,37,New York,upwork,5,some_college,0
+USER060,57,Los Angeles,taskrabbit,31,some_college,1
+USER061,23,San Francisco,upwork,43,masters,1
+USER062,49,San Francisco,upwork,4,phd,4
+USER063,22,Austin,uber,11,phd,2
+USER064,44,San Francisco,fiverr,44,masters,1
+USER065,64,Austin,uber,32,bachelors,0
+USER066,39,New York,doordash,3,some_college,4
+USER067,38,Miami,upwork,19,phd,2
+USER068,43,San Francisco,doordash,39,phd,3
+USER069,30,Los Angeles,uber,13,phd,4
+USER070,62,Austin,taskrabbit,15,high_school,1
+USER071,63,Austin,fiverr,12,masters,1
+USER072,28,San Francisco,lyft,44,phd,3
+USER073,37,Chicago,uber,27,bachelors,2
+USER074,55,Austin,taskrabbit,9,some_college,2
+USER075,25,Austin,upwork,33,bachelors,4
+USER076,59,Austin,taskrabbit,8,masters,4
+USER077,34,Chicago,instacart,17,masters,0
+USER078,47,Boston,doordash,47,masters,0
+USER079,35,New York,doordash,27,masters,0
+USER080,56,Miami,lyft,23,bachelors,0
+USER081,23,New York,uber,23,some_college,2
+USER082,31,Boston,upwork,25,bachelors,3
+USER083,56,Seattle,taskrabbit,9,masters,1
+USER084,40,Chicago,uber,7,masters,2
+USER085,49,New York,uber,14,masters,2
+USER086,65,Seattle,lyft,16,high_school,4
+USER087,60,New York,uber,19,masters,3
+USER088,30,Miami,upwork,39,phd,4
+USER089,22,Seattle,fiverr,25,masters,0
+USER090,42,New York,uber,32,high_school,2
+USER091,47,Seattle,upwork,22,masters,0
+USER092,46,San Francisco,uber,31,high_school,2
+USER093,48,Seattle,instacart,41,high_school,4
+USER094,61,New York,fiverr,30,masters,1
+USER095,50,New York,lyft,23,high_school,4
+USER096,61,Boston,fiverr,15,phd,0
+USER097,59,Miami,taskrabbit,26,bachelors,2
+USER098,28,Austin,upwork,11,bachelors,3
+USER099,45,Austin,lyft,40,high_school,2
+USER100,27,Chicago,taskrabbit,11,phd,3

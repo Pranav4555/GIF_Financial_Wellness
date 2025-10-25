@@ -1,0 +1,7 @@
+product_id,product_name,provider,type,min_credit_score,max_amount,interest_rate
+LOAN001,Gig Worker Loan,FinTech Bank,personal_loan,600,5000,12.5
+LOAN002,Quick Cash Advance,PayDay Plus,cash_advance,500,1000,24.9
+SAVE001,Emergency Fund,Credit Union,savings,500,999999,2.1
+INVEST001,Micro Investment,Robo Advisor,investment,550,999999,0.25
+CREDIT001,Gig Worker Credit Card,Neo Bank,credit_card,650,3000,18.99
+INSURE001,Gig Worker Insurance,InsureTech,insurance,500,999999,0.05

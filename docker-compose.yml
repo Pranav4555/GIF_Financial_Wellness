@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  gig-financial-wellness:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - USE_MOCK_AI=${USE_MOCK_AI:-True}
+      - DEBUG_MODE=${DEBUG_MODE:-False}
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data:ro
+      - ./models:/app/models
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
